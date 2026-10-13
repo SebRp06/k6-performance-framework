@@ -1,0 +1,27 @@
+[
+{
+"title": "Automatización K6 - Framework Modular",
+"body": "Ejecución con logs en tiempo real y Custom Metrics",
+"userId": 1
+},
+{
+"title": "Prueba de Carga - Escalamiento Horizontal",
+"body": "Simulación de 1000 usuarios concurrentes en el sistema de ventas",
+"userId": 2
+},
+{
+"title": "Spike Testing - Black Friday",
+"body": "Validación de picos repentinos de tráfico durante campañas promocionales",
+"userId": 3
+},
+{
+"title": "Stress Testing - Límite de Infraestructura",
+"body": "Buscando el punto de quiebre de la base de datos",
+"userId": 4
+},
+{
+"title": "Soak Testing - Fugas de Memoria",
+"body": "Ejecución prolongada de 12 horas para monitorear el Garbage Collector",
+"userId": 5
+}
+]

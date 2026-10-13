@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Reportes autogenerados (se generan en cada corrida, no se versionan)
+reporte-k6.html
+
+# Variables de entorno y configuraciones locales
+.env
+.kiro/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
